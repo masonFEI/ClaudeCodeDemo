@@ -37,3 +37,5 @@ CLAUDE_CODE_GIT_BASE_PATH:E:\Program Files\Git\bin\bash.exe
 "code_comments": "zh-CN",
 }
 }
+
+/add-dir <项目地址>：添加项目目录，claude会分析项目结构和文件内容，构建知识库。
