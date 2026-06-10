@@ -56,5 +56,5 @@ CLAUDE_CODE_GIT_BASE_PATH:E:\Program Files\Git\bin\bash.exe
 
 /config 查看并修改配置文件
 
-/models 查看可用模型列表，选择使用的模型。
+/model 查看可用模型列表，选择使用的模型。
 
