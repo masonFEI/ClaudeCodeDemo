@@ -11,10 +11,6 @@ AnTHROPIC_BASE_URL=https://api.moonshot.cn/anthropic/
 ANTHROPIC_MODEL
 kimi-k2.6
 
-ds
-
-apiKey:sk-191444e19f8f4d0d897e11f878c0c22d
-
 # git配置
 
 CLAUDE_CODE_GIT_BASE_PATH:E:\Program Files\Git\bin\bash.exe
